@@ -1,3 +1,3 @@
 # ToyCraft-Tales-Tableau-s-Vision-into-Toy-Manufacturer-Data
 
-Analyzed toy industry data in Tableau to uncover trends, preferences, and regional insights for smarter production, marketing, and distribution strategies.
+Analyzed data from the toy industry with Tableau to highlight trends, buyer preferences, and regional insights, helping inform better production, marketing, and distribution approaches.
